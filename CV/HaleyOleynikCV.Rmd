@@ -167,9 +167,10 @@ urlcolor: blue
 
 # PUBLICATIONS
 
-Brodziak, J., M. Supernaw, B. Li, C. Stawitz, **H. A. Oleynik**, T. A’mar. 2025. Engineering a prototype for a next generation stock assessment modeling platform. Fishery Bulletin. 123(2). 88-104. 
+Brodziak, J., M. Supernaw, B. Li, C. Stawitz, **H.A. Oleynik**, T. A’mar. 2025. Engineering a prototype for a next generation stock assessment modeling platform. Fishery Bulletin. 123(2). 88-104. 
 
 **Oleynik, H.A.**, J.J Bizzarro, E.A. Hale, A.B. Carlisle. 2024. Environmental drivers of biogeography and community structure in a Mid-Atlantic estuary. Oecologia. 
+
 Zahner. J.A, M.A. Heller-Shipley, **H.A. Oleynik**, S.G. Beyer, P-Y. Hernvann, M. Véron, A.N.
 Odell, J.Y. Sullivan, A.L. Hayes, V.G. Gertseva, K.L. Oken, O.S. Hamel, M.A. Haltuch.
 2023. *Status of Shortspine Thornyhead (Sebastolobus alascanus) along the US West coast
