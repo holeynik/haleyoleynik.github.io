@@ -27,9 +27,9 @@ urlcolor: blue
 
 # EDUCATION
 
-**Colby College**, *Waterville, Maine*, **B.A.** Biology & Sociology \hfill 2015
+**Colby College**, *Waterville, ME*, **B.A.** Biology & Sociology \hfill 2015
 
-**University of Delaware**, *Lewes, Delaware*, **M.S.** Marine Science \hfill 2020
+**University of Delaware**, *Lewes, DE*, **M.S.** Marine Science \hfill 2020
 
 **University of British Columbia**, *Vancouver, BC*, **PhD** Fisheries Science \hfill in progress
 
@@ -41,21 +41,21 @@ urlcolor: blue
 
 *Institute for the Oceans and Fisheries* University of British Columbia 
 
-* My PhD research involves population modeling of 27 stocks from five species of Fraser River salmon and steelhead (*Onchorynchus spp.*) to identify environmental, ecological, and anthropogenic drivers of productivity decline, with the goal of understanding regional, multi-species population patterns and incorperating ecosystem information into fisheries and ecosystem management.
+* My PhD research involves population modeling of 28 stocks from five species of Fraser River salmon and steelhead (*Oncorhynchus spp.*) to identify ecological drivers of productivity declines, with the goal of understanding regional, multi-species population patterns and incorporating ecosystem information into fisheries and ecosystem management.
 - *Skills: Statistical modeling, Bayesian modeling, R programming, Git/Github, stakeholder engagement*
 
 **Graduate Research Assistant** \hfill Jan 2024 - Present
 
 *United States Army Corps of Engineers*  
 
-- As a part-time research assistant I conduct statistical modeling, using Bayesian mark-recapture models in JAGS, zero-inflated binomial regressions, and generalized additive models, of Chinook salmon (*Oncorhynchus tshawytscha*) passage success and survival through dams in the Willamette River system in Oregon. 
+- As a part-time research assistant I conduct statistical modeling, using Bayesian mark-recapture models in JAGS, zero-inflated binomial regressions, and generalized additive models, to determine Chinook salmon (*Oncorhynchus tshawytscha*) passage success and survival through dams in the Willamette River system in Oregon. 
 - *Skills: Statistical modeling, Bayesian modeling, JAGS programming, data analysis, stakeholder engagement, R programming*
 
 **Research Analyst** \hfill Feb 2026 - May 2026
 
 *Pacific Salmon Commission*  Vancouver, B.C.
 
-- During a three month contract I analyzed salmon monitoring data to statistically evaluate the use of a new monitoring method for salmon passage through Hells Gate, a narrow gorge which poses passage challenges for salmon migrating up the Fraser River to their spawning grounds
+- During a three month contract I analyzed salmon monitoring data to statistically evaluate the use of a new monitoring method for salmon passage through Hells Gate, a narrow gorge which poses passage challenges for sockeye (*Oncorhynchus nerka*) and pink salmon (*Oncorhynchus gorbuscha*) migrating up the Fraser River to their spawning grounds.
 - *Skills: Statistical modeling, R programming,  Git/Github*
 
 \newpage
@@ -64,37 +64,41 @@ urlcolor: blue
 
 *Department of Fisheries and Oceans Canada* Vancouver, B.C.
 
-- As a contract research biologist, I used used empirical harbour seal diet data and modeled diets from Ecopath with Ecospace ecosystem models to statistically validate model outputs and inform field sampling programs
-- *Skills: Spatio-temporal modeling, ecosystem modeling, EwE, TMB programming, R programming*
+- As a contract research biologist, I used used empirical harbour seal diet data and modeled diet composition from Ecopath with Ecospace (EwE) ecosystem models to statistically validate model outputs and inform field sampling programs.
+- *Skills: Spatio-temporal modeling, VAST, ecosystem modeling, EwE, bioenergetics modeling, TMB programming*
 
 **M.S. Student** \hfill Sept 2018 - July 2020
 
 *School of Marine Science and Policy* University of Delaware 
 
-- My Master's research involved analyzing data from a state-run trawl survey using multivariate statistical methods to describe the fish and invertebrate community in Delaware Bay, identify physical drivers of community composition, and evaluate long-term changes in the community
+- My Master's research involved analyzing data from a state-run trawl survey using multivariate statistical methods to describe the fish and invertebrate community in Delaware Bay, identify physical drivers of community composition, and evaluate long-term changes in the community.
 - *Skills: Fishery independent data analysis, multivariate statistics, timeseries analysis, R programming*
 
 **Undergraduate Senior Honors Thesis** \hfill Sept 2014 - May 2015
 
 *Department of Sociology* Colby College 
 
-- Conducted in-depth interviews of harvesters to understand social and community implications of the changing American lobster (*Homarus americanus*) population, and subsequent management, on the lobster fishing industry in Maine
-
-<!--
+- My undergraduate honors thesis project involved conducting in-depth interviews with harvesters to understand social and community implications of the changing American lobster (*Homarus americanus*) population, and subsequent management, on the lobster fishing industry in Maine.
+- *Skills: Sociological research, interview design, stakeholder engagement*
 
 **Research Intern** \hfill June 2014 - Aug 2014
 
 *CIEE Bonaire* Bonaire, Netherland Antilles 
 
-- Used SCUBA field sampling methods to catch invasive lionfish species, *Pterois*, and observe behavioral patterns to explore the impact lionfish have on juvenile fish populations in Bonaire
+- I used SCUBA field sampling methods to catch invasive lionfish, *Pterois*, and dissect and analyze stomach contents, to explore the predatory impact lionfish have on juvenile fish in Bonaire.
+- *Skills: SCUBA, stomach content analysis, field sampling*
 
 **Research Intern** \hfill Jan 2013 - Feb 2013
 
 *Smithsonian Natural History Museum* Washington D.C. 
 
-- Curated, identified, and photographed over 50 species of pteropoda to catalogue morphology for research of the genetics, morphology, and biogeographic information of pteropods to better understand ocean connectivity
--->
+- I curated, identified, and photographed over 50 species of *pteropoda* to catalog morphology for research of the genetics, morphology, and biogeographic information of pteropods to better understand ocean connectivity.
+- *Skills: Curation, phylogeny, Geneious software, Image J software*
+
 ---------------------------------------------
+
+\newpage
+
 
 # PROFESSIONAL EXPERIENCE
 
@@ -102,33 +106,25 @@ urlcolor: blue
 
 *Master of Data Science Program* University of British Columbia 
 
-- For four years, I have been a part-time teaching assistant for the following MDS statistics and computation courses:
-  - DSCI 523: Programming for Data Manipulation
-  - DSCI 552: Statistical Inference and Computation I
-  - DSCI 561: Regression I
-  - DSCI 562: Regression II 
-  - DSCI 553: Statistical Inference and Computation II
-  - DSCI 554: Experimentation and Causal Inference
+- For four years, I have been a part-time teaching assistant for several MDS statistics and computation courses. I lead coding labs, evaluate student work, and provide feedback. The courses included, *Programming for Data Manipulation* (DSCI 523), *Statistical Inference and Computation I* (DSCI 552), *Regression I* (DSCI 561), *Regression II* (DSCI 562), *Statistical Inference and Computation II* (DSCI 553), *Experimentation and Causal Inference* (DSCI 554).
 
 **Teaching Assistant** \hfill Spring 2026
 
 *Ecosystem Modeling with EwE* University of British Columbia 
 
-- I served as a teaching assistant for a graduate-level Ecosystem modeling course (FISH 501), which taught the use of Ecopath with Ecosim for marine ecosystem modeling. 
-
-\newpage
+- As a teaching assistant for a graduate-level Ecosystem modeling course (FISH 501), which taught the use of Ecopath with Ecosim (EwE) for marine ecosystem modeling, I delivered lectures and provided feedback to students on course projects. 
 
 **Graduate Writing Consultant** \hfill Sept 2022 - April 2024
 
 *Center for Writing and Scholarly Communication* University of British Columbia 
 
-- Provided written and in-person consultations to graduate and undergraduate students on written work including class assignments, manuscripts, and dissertations
+- As a writing consultant I provided written and in-person consultations to graduate and undergraduate students on written work including class assignments, manuscripts, and dissertations.
 
 **NOAA Sea Grant John A. Knauss Marine Policy Fellow** \hfill Feb 2021 - Feb 2022
 
 *National Stock Assessment Program* NOAA Fisheries 
 
-- As a Knauss Fellow I supported the National Stock Assessment Program by organizing a technical community, developing the Fisheries Integrated Toolbox, assisting in coordination of a new national stock assessment modeling framework and facilitation regional communication, to advance the NOAA stock assessment enterprise 
+- As a Knauss Fellow I supported the National Stock Assessment Program by organizing a technical community, developed the Fisheries Integrated Toolbox, assisted in coordination of a new national stock assessment modeling framework (FIMS), and facilitated regional communication, to advance the NOAA stock assessment enterprise. 
 
 **Communications Committee Chair** \hfill Oct 2022 - June 2026
 
@@ -136,40 +132,20 @@ urlcolor: blue
 
 *Association of the Marine Laboratories of the Caribbean* 
 
-- In this volunteer position I managed internal and external communication for the AMLC, a nonprofit which connects marine laboratories, scientists, students, and stakeholders in the Wider Caribbean Region
+- In this volunteer position I managed internal and external communication, and helped organize three biennial scientific conferences, for the AMLC, a nonprofit which connects marine laboratories, scientists, students, and stakeholders in the Wider Caribbean Region.
 
 **North Pacific Groundfish Observer** \hfill June 2016 – Jan 2018 
 
 *Saltwater Inc. / NOAA Fisheries* 
 
-- As a fisheries observer I collected data on catch, bycatch, and fishing effort on board commercial Alaskan fishing vessels to be used by the National Marine Fisheries Service to monitor fish populations, set catch limits, and manage the commercial Alaskan fisheries
+- As a fisheries observer I collected data on catch, bycatch, and fishing effort on board commercial Alaskan fishing vessels to be used by the National Marine Fisheries Service to monitor fish populations, set catch limits, and manage commercial Alaskan fisheries.
 
----------------------------------------------
-
-# OUTREACH AND ENGAGEMENT 
-
-*REDI Committee* **Student rep**, UBC Institute for the Oceans and Fisheries \hfill 2022-present
-
-*Society for Women in Marine Science* **Co-Chair**, University of Delaware Chapter \hfill 2019-2020
-
-*Graduate Student Association* **Co-Chair**, UD School of Marine Science and Policy \hfill 2019-2020
-
-*Hutton Junior Fisheries Biology Internship* **Reviewer**, American Fisheries Society \hfill 2024
-
-*John A. Knauss Marine Policy Fellowship* **Reviewer**, NOAA Sea Grant  \hfill 2022, 2024
-
-
----------------------------------------------
-
-\newpage
-
----------------------------------------------
 
 # PUBLICATIONS
 
-Brodziak, J., M. Supernaw, B. Li, C. Stawitz, **H.A. Oleynik**, T. A’mar. 2025. Engineering a prototype for a next generation stock assessment modeling platform. Fishery Bulletin. 123(2). 88-104. 
+Brodziak, J., M. Supernaw, B. Li, C. Stawitz, **H.A. Oleynik**, T. A’mar. 2025. Engineering a prototype for a next generation stock assessment modeling platform. Fishery Bulletin. 123(2), 88-104. 
 
-**Oleynik, H.A.**, J.J Bizzarro, E.A. Hale, A.B. Carlisle. 2024. Environmental drivers of biogeography and community structure in a Mid-Atlantic estuary. Oecologia. 
+**Oleynik, H.A.**, J.J Bizzarro, E.A. Hale, A.B. Carlisle. 2024. Environmental drivers of biogeography and community structure in a Mid-Atlantic estuary. Oecologia. 204(3), 543-557.
 
 Zahner. J.A, M.A. Heller-Shipley, **H.A. Oleynik**, S.G. Beyer, P-Y. Hernvann, M. Véron, A.N.
 Odell, J.Y. Sullivan, A.L. Hayes, V.G. Gertseva, K.L. Oken, O.S. Hamel, M.A. Haltuch.
@@ -187,18 +163,43 @@ ICES (2022): Working Group on Technology Integration for Fishery-Dependent Data 
 
 ---------------------------------------------
 
-# AWARDS AND FUNDING
-[**Partnership Engage Grant **](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_engage_grants-subventions_d_engagement_partenarial-eng.aspx) *Social Sciences and Humanities Research Council, Canada*\hfill 2024
+# OUTREACH AND ENGAGEMENT 
 
-[**Buck Suzuki Legacy Bursary Award**](https://www.bucksuzuki.org/diving_into_fishing_misconceptions) *T. Buck Suzuki Foundation*\hfill 2022
+*REDI Committee* **Student rep**, UBC Institute for the Oceans and Fisheries \hfill 2022-2025
+
+*Student Society* **Social activities chair**, UBC Institute for the Oceans and Fisheries \hfill 2022-2024
+
+*Society for Women in Marine Science* **Co-Chair**, University of Delaware Chapter \hfill 2019-2020
+
+*Graduate Student Association* **Co-Chair**, UD School of Marine Science and Policy \hfill 2019-2020
+
+*Hutton Junior Fisheries Biology Internship* **Reviewer**, American Fisheries Society \hfill 2024
+
+*John A. Knauss Marine Policy Fellowship* **Reviewer**, NOAA Sea Grant  \hfill 2022, 2024
+
+---------------------------------------------
+
+# EXPERTISE
+
+**Computing** Advanced in R, WinBUGS, JAGS; experience with C++, Stan, Stock Synthesis, Template Model Builder (TMB), Vector Autoregressive Spatio-Temporal modeling (VAST) 
+
+**Field & Lab** AAUS Scientific Diver, SDI Rescue Diver, small boat operation, random field sampling, otolith collection, shark tagging, marine animal husbandry 
+
+\newpage
+
+
+# AWARDS AND FUNDING
+[**Partnership Engage Grant **](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_engage_grants-subventions_d_engagement_partenarial-eng.aspx) ($23,000) *Social Sciences and Humanities Research Council, Canada*\hfill 2024
+
+[**Buck Suzuki Legacy Bursary Award**](https://www.bucksuzuki.org/diving_into_fishing_misconceptions) ($1,000) *T. Buck Suzuki Foundation*\hfill 2022
 
 [**Frances Severance Thesis Distinction Award**](https://www.udel.edu/academics/colleges/ceoe/about/news/2021/may/ceoe-honors-announced/) *University of Delaware*\hfill 2021
 
-**Daiber Fellowship** *University of Delaware*\hfill 2019
+**Daiber Fellowship** ($27,000) *University of Delaware*\hfill 2019
 
 [**Women of Promise Award**](https://www.udel.edu/udaily/2019/march/valerie-biden-owens-women-of-promise-erin-rezich-regina-sims-wright-diversity-awards/) *University of Delaware* \hfill 2019
 
-**Okie Fellowship** *University of Delaware* \hfill 2018
+**Okie Fellowship** ($26,000) *University of Delaware* \hfill 2018
 
 <!--
 
@@ -213,43 +214,51 @@ ICES (2022): Working Group on Technology Integration for Fishery-Dependent Data 
 *Smithsonian Natural History Museum* Washington D.C. 
 
 - Curated, identified, and photographed over 50 species of pteropoda to catalogue morphology for research of the genetics, morphology, and biogeographic information of pteropods to better understand ocean connectivity
+
+  - DSCI 523: Programming for Data Manipulation
+  - DSCI 552: Statistical Inference and Computation I
+  - DSCI 561: Regression I
+  - DSCI 562: Regression II 
+  - DSCI 553: Statistical Inference and Computation II
+  - DSCI 554: Experimentation and Causal Inference
 -->
 
 ---------------------------------------------
 
-\newpage
+# PRESENTATIONS & GUEST LECTURES
 
----------------------------------------------
+*"Fisheries Oceanography"* Guest Lecture, **Biological Oceanography Summer Course**, Bamfield Marine Science Center, Bamfield, BC \hfill  2026
 
-# PRESENTATIONS
+*"Impacts of Dam Operations on Mortality and Injury of Juvenile Chinook Salmon at Cougar Dam"* **Willamette Science Review**, Corvallis, OR \hfill  2026
 
-*"Impacts of Dam Operations on Mortality and Injury of Juvenile Chinook Salmon at Cougar Dam"* Willamette Science Review \hfill  2026
+*"Cougar Dam Gate Opening Analysis: Impacts on Chinook Mortality"* **Willamette Valley System Adaptive Management Workshop**, Salem, OR \hfill  2026
 
-*"Population-level survival impacts of Harbour seal foraging on juvenile Pacific salmon, and the mechanistic links"*  PICES \hfill  2025
+*"Population-level survival impacts of Harbour seal foraging on juvenile Pacific salmon, and the mechanistic links"*  **PICES**, Yokohama, Japan \hfill  2025
 
-*"Drivers of Productivity in Fraser River Salmon"* American Fisheries Society WA-BC Chapter Meeting \hfill   2025
+*"Drivers of Productivity in Fraser River Salmon"* **American Fisheries Society (AFS) WA-BC Chapter Meeting**, Vancouver, BC \hfill   2025
 
-*"Incorperating Human Dimensions into EBFM: Understanding Socioeconomic Consequences of Ecological Change"* American Fisheries Society Annual Conference \hfill  2024
+*"Incorperating Human Dimensions into EBFM: Understanding Socioeconomic Consequences of Ecological Change"* **American Fisheries Society Annual Conference**, Honolulu, HI \hfill  2024
 
-*"Integrating Electronic Monitoring Data into U.S. Fish Stock Assessments"* World Fisheries Congress \hfill  2024
+*"Integrating Electronic Monitoring Data into U.S. Fish Stock Assessments"* **World Fisheries Congress**, Seattle, WA \hfill  2024
 
-*"Fisheries Science and Management"* Guest Lecture, George Washington University Marine Ecology Course (BISC 3454) \hfill  2024
+*"Fisheries Science and Management"* Guest Lecture, **George Washington University Marine Ecology Course** (BISC 3454), Washington DC \hfill  2024
 
-*"Long-Term Shifts in the Fish and Macroinvertebrate Community in a Mid-Atlantic Estuary"* American Fisheries Society Annual Conference \hfill 2021
+*"Long-Term Shifts in the Fish and Macroinvertebrate Community in a Mid-Atlantic Estuary"* **American Fisheries Society Annual Conference**, remote \hfill 2021
 
-*"Changes in a Mid Atlantic Estuary: Long Term Shifts in the Fish and Macroinvertebrate Community in Delaware Bay"* NOAA Central Library \hfill 2021 
+*"Changes in a Mid Atlantic Estuary: Long Term Shifts in the Fish and Macroinvertebrate Community in Delaware Bay"* **NOAA Central Library Seminar Series**, remote \hfill 2021 
 
-*"Long-Term Shifts in the Fish and Macroinvertebrate Community in a North American Estuary"* World Fisheries Congress \hfill 2021
+*"Long-Term Shifts in the Fish and Macroinvertebrate Community in a North American Estuary"* **World Fisheries Congress, remote** \hfill 2021
 
-*"Changes in a Mid-Atlantic Estuary: Long-Term Trends in Environmental Conditions and Marine Community in Delaware Bay"* American Fisheries Society Mid-Atlantic Chapter Meeting \hfill 2020
+*"Changes in a Mid-Atlantic Estuary: Long-Term Trends in Environmental Conditions and Marine Community in Delaware Bay"* **AFS Mid-Atlantic Chapter Meeting**, Lewes, DE \hfill 2020
 
 
 <!--
 **Okie Fellowship** *University of Delaware* \hfill 2018
 **Dean’s List** *Colby College* \hfill 2014-2015
--->
+
 
 ---------------------------------------------
+
 
 # EXPERTISE
 
@@ -262,3 +271,4 @@ ICES (2022): Working Group on Technology Integration for Fishery-Dependent Data 
 - AAUS Scientific Diver, SDI Rescue Diver, small boat operation, random field sampling, otolith collection, shark tagging, marine animal husbandry 
 
 ---------------------------------------------
+-->
