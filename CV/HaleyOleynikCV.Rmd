@@ -41,7 +41,7 @@ urlcolor: blue
 
 *Institute for the Oceans and Fisheries* University of British Columbia 
 
-* My PhD research explores the ecological and fishery consequences of growing pinniped populations on multispecies, multistock salmon fisheries by modeling the population dynamics of 28 stocks from five species of Fraser River salmon and steelhead (*Oncorhynchus spp.*) to identify ecological drivers of productivity declines, conducting a retrospective policy analysis of historical fishery conditions, and surveying commercial salmon fishers to document operational interactions between fisheries and pinnipeds.
+* My PhD dissertation explores the ecological and fishery consequences of growing pinniped populations on multispecies, multistock salmon fisheries. The research involved modeling the population dynamics of 27 stocks, from five species, of Fraser River salmon and steelhead (*Oncorhynchus spp.*) to compare ecological drivers of productivity declines; conducting retrospective policy analysis of historical fishery conditions; and surveying commercial salmon fishers to document operational interactions with pinnipeds.
 - *Skills: Statistical modeling, Bayesian modeling, R programming, Git/GitHub, stakeholder engagement*
 
 **Graduate Research Assistant** \hfill Jan 2024 - Present
