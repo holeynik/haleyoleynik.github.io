@@ -23,8 +23,8 @@ navbar:
   right:
     - icon: fa-github fa-lg
       href: https://github.com/haleyoleynik     
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/fish_follower       
+#    - icon: fa-twitter fa-lg
+#      href: https://twitter.com/fish_follower       
     - icon: fa-info-circle fa-la
       href: info.html 
 output_dir: "."
